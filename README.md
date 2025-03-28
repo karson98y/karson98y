@@ -1,12 +1,16 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+karson;Full+Stack+Developer;Open+Source+Enthusiast" alt="动态打字效果" />
 
-  <p align="center">12313</p> 
-</div>
+<!-- 全屏容器 -->
+<div style="min-height: 100vh; display: flex; flex-direction: column; justify-content: space-between; padding: 2rem 0">
+  <h1 align="center"><👏 console.log /></p> 
+<div>
+
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" style="font-size: 10rem">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,react,nodejs,express,jest,webpack,vite,git" />
   </a>
 </p>
+
+
+![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
