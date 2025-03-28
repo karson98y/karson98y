@@ -1,12 +1,11 @@
-<p align="center">
-  <a href="https://skillicons.dev" style="font-size: 2rem">
+
+<h1>Hi there.</h1>
+
+<p align="left">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,react,nodejs,express,jest,webpack,vite,git" />
   </a>
 </p>
-
-<h1 align="center"><👏 console.log /></p> 
-
-
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
